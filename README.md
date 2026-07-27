@@ -15,35 +15,11 @@ Tenho experiência acadêmica sólida, projetos práticos e interesse em transfo
 
 ## 📂 Portfólio de Projetos
 
-### 📊 Ciência de Dados
-- 🔍 **Análise Exploratória – Dataset Iris**  
-  Limpeza, preparação dos dados e visualização para identificação de atributos relevantes à classificação.  
-  🔗 _em construção_
-
-- 🤖 **Classificação de Espécies com Machine Learning**  
-  Aplicação de modelos supervisionados e avaliação de desempenho.  
-  🔗 _em breve_
-
----
-
-### 🏗️ Engenharia de Dados
-- 🔄 **Pipeline de Dados com Python**  
-  Extração, transformação e carga de dados simulando um ambiente de produção.  
-  🔗 _em breve_
-
----
-
-### ⚙️ Back-End
-- 🌐 **API REST com FastAPI**  
-  Desenvolvimento de API para consumo de dados e integração com aplicações.  
-  🔗 _em breve_
-
----
-
-### 🎨 Front-End
-- 📈 **Dashboard Interativo**  
-  Visualização de dados utilizando tecnologias web.  
-  🔗 _em breve_
+- 💳 **Previsão de Risco de Crédito & Inadimplência (LightGBM)** Desenvolvimento de um pipeline completo de Machine Learning para estimar a probabilidade de inadimplência de cobranças financeiras a partir de um histórico em painel (dados cadastrais, operacionais e financeiros).
+  * **Destaques:** Modelagem sem *data leakage*, pré-processamento/imputação temporal inteligente e estratégia de validação *Out-of-Time* (OOT) simulando safras futuras.
+  * **Resultados:** Modelo LightGBM altamente calibrado, atingindo **ROC-AUC de 0.9200** e **Log-Loss de 0.1348** na validação.
+  * **Tecnologias:** Python, Pandas, NumPy, LightGBM, Scikit-Learn.  
+  🔗 (https://github.com/JackelineTesch/credito-inadimplencia-lightgbm)
 
 ---
 
@@ -60,3 +36,4 @@ Atuar na área de **Ciência de Dados**, aplicando análise, estatística e mach
 
 📫 **Vamos conversar?**  
 Conecte-se comigo no LinkedIn!
+
